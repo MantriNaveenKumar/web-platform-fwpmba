@@ -1,0 +1,66 @@
+body{
+  height: 100%;
+  width: 100%;
+  letter-spacing: 1px;
+}
+
+
+hr{
+width: 75%;
+}
+
+h2,span{
+color: rgb(48, 49, 138);
+text-decoration: underline;
+} 
+
+
+p,li{
+color: rgb(73, 42, 85);
+}
+
+header
+{
+width: 90%;
+word-break:keep-all;
+padding-left: 35%;
+padding-right: 35%;
+text-align: center;
+color: rgb(48, 49, 138);
+}
+
+
+
+.breadcrumb{
+  display: flex;
+ justify-content: center;
+}
+
+.breadcrumb p{
+  color: rgb(7, 65, 92);
+}
+
+
+
+.introduction,.first-section,.second-section{
+width: 70%;
+word-break:keep-all;
+padding-left: 45%;
+padding-right: 40%; 
+
+}
+
+#my-list {
+list-style-position: inside;
+padding-left: 13px;
+}
+
+
+
+
+
+
+
+
+
+
